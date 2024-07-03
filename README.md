@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Master thesis project.**
 
-- 🌱 I’m currently learning **Computer Vision, Deep Learning**
+- 🌱 I’m currently learning **Computer Vision, Deep Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AakashGoyal25](https://github.com/AakashGoyal25)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Time Series**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Time Series.**
 
 - 📫 How to reach me **aakashgoyal25193@gmail.com**
 
