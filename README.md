@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashgoyal25" alt="aakashgoyal25" /></a> </p>
 
-- 🔭 I’m currently working on **Master thesis project.**
+- 🔭 I’m currently working on **Master thesis project "Efficiency in Logistics: using object detetion and segmentation techniques" .**
 
 - 🌱 I’m currently learning **Computer Vision, Deep Learning.**
 
